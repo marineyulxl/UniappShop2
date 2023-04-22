@@ -1,0 +1,30 @@
+{
+    "message": {
+        "goods_id": 8888,
+        "goods_name": "一只土鸡",
+        "goods_price": 500,
+        "goods_small_logo": "https://images.pexels.com/photos/195226/pexels-photo-195226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "goods_describe": "果园山林原生态味十足的鸡舍，从出生起就放养着，鸡在绿树上停息、山岭间自由奔跑。",
+        "pics": [
+            {
+                "pics_id": 38711,
+                "goods_id": 8888,
+                "pics_big": "http://image1.suning.cn/uimg/b2c/newcatentries/0070134290-000000000149003877_1_800x800.jpg"
+            },
+             {
+                "pics_id": 38712,
+                "goods_id": 8888,
+                "pics_big": "http://image1.suning.cn/uimg/b2c/newcatentries/0070134290-000000000149003877_1_800x800.jpg"
+            },
+     		{
+                "pics_id": 38713,
+                "goods_id": 8888,
+                "pics_big": "http://image1.suning.cn/uimg/b2c/newcatentries/0070134290-000000000149003877_1_800x800.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "msg": "获取成功",
+        "status": 200
+    }
+}

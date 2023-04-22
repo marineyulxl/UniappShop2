@@ -1,0 +1,28 @@
+{
+  "goods": [{
+      "goods_id": 8888,
+      "goods_name": "土鸡一只",
+      "goods_price": 199,
+      "goods_small_logo": "https://images.pexels.com/photos/195226/pexels-photo-195226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "goods_describe": "果园山林原生态味十足的鸡舍，从出生起就放养着，鸡在绿树上停息、山岭间自由奔跑。果园山林原生态味十足的鸡舍，从出生起就放养着，鸡在绿树上停息、山岭间自由奔跑。果园山林原生态味十足的鸡舍，从出生起就放养着，鸡在绿树上停息、山岭间自由奔跑。"
+    },
+    {
+      "goods_id": 57445,
+      "goods_name": "土鸡",
+      "goods_price": 6499,
+      "goods_small_logo": "https://images.pexels.com/photos/195226/pexels-photo-195226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "goods_describe": "果园山林原生态味十足的鸡舍，从出生起就放养着，鸡在绿树上停息、山岭间自由奔跑。"
+    },
+    {
+      "goods_id": 57445,
+      "goods_name": "土鸡",
+      "goods_price": 6499,
+      "goods_small_logo": "https://images.pexels.com/photos/195226/pexels-photo-195226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "goods_describe": "果园山林原生态味十足的鸡舍，从出生起就放养着，鸡在绿树上停息、山岭间自由奔跑。"
+    }
+  ],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}

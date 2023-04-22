@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "结算",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-address": "/uni_modules/my-address/components/my-address/my-address",
+    "my-sgoods": "/uni_modules/my-sgoods/components/my-sgoods/my-sgoods",
+    "my-submit": "/uni_modules/my-submit/components/my-submit/my-submit"
+  }
+}

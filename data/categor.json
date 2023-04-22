@@ -1,0 +1,71 @@
+{
+  "message": [
+    {
+      "cat_id": 1,
+      "cat_name": "猪肉",
+      "children": [
+        {
+         "cat_id": 5,
+         "goods_id":8888,
+         "cat_name": "腿子肉",
+         "cat_icon": "https://ts1.cn.mm.bing.net/th/id/R-C.d09625dde4d1d9e1da45a044ea4d4ff7?rik=Gz%2feWdMLmCVZng&riu=http%3a%2f%2fimg.91jm.com%2f2019%2f05%2f16AD474B219.jpg&ehk=8jr3W6Y29LBhmXUIZCtATfP5yLPiY9teVxxMEoOfOt8%3d&risl=&pid=ImgRaw&r=0"     
+        },
+        {
+         "cat_id": 6,
+         "goods_id":43986,
+         "cat_name": "土猪肉",
+         "cat_icon": "https://ts1.cn.mm.bing.net/th/id/R-C.1d3c4551cdcde9c57a089ea9ef64c83f?rik=Em555kFDvnc4eQ&riu=http%3a%2f%2fpic.ule.com%2fpic%2fuser_800109057%2fproduct%2fprd20150403%2f74fac992f4570ca4_p750x750_xl.jpg&ehk=0B%2bdttOEbVB3%2brHIVj08KRgvz9VG%2bqSkrsBwO5p3w88%3d&risl=&pid=ImgRaw&r=0"     
+        },
+        {
+         "cat_id": 7,
+         "goods_id":43986,
+         "cat_name": "排骨",
+         "cat_icon": "https://img.zcool.cn/community/015c475ee09669a8012066218a0682.jpg@1280w_1l_2o_100sh.jpg"     
+        },
+        {
+         "cat_id": 8,
+         "goods_id":43986,
+         "cat_name": "小排骨",
+         "cat_icon": "https://img.zcool.cn/community/015c475ee09669a8012066218a0682.jpg@1280w_1l_2o_100sh.jpg"     
+        }
+      ]
+    },
+    {
+      "cat_id": 1,
+      "cat_name": "兔子",
+      "children": [
+        {
+         "cat_id": 5,
+         "goods_id":43986,
+         "cat_name": "兔子",
+         "cat_icon": "https://api-hmugo-web.itheima.net/full/2fb113b32f7a2b161f5ee4096c319afedc3fd5a1.jpg"     
+        },
+        {
+         "cat_id": 5,
+         "cat_name": "兔子",
+         "cat_icon": "https://api-hmugo-web.itheima.net/full/2fb113b32f7a2b161f5ee4096c319afedc3fd5a1.jpg"     
+        }
+      ]
+    },
+    {
+      "cat_id": 1,
+      "cat_name": "鸡鸭",
+      "children": [
+        {
+         "cat_id": 5,
+         "cat_name": "鸭蛋",
+         "cat_icon": "https://api-hmugo-web.itheima.net/full/2fb113b32f7a2b161f5ee4096c319afedc3fd5a1.jpg"     
+        },
+        {
+         "cat_id": 5,
+         "cat_name": "鸡",
+         "cat_icon": "https://cdn.pixabay.com/photo/2019/05/26/14/55/birds-4230463_960_720.jpg"     
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "msg": "获取成功",
+    "status": 200
+  }
+}

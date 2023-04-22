@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+swiper.data-v-18739e8c {
+  height: 550rpx;
+}
+swiper image.data-v-18739e8c {
+  width: 100%;
+  height: 100%;
+}
+.goods-info-box.data-v-18739e8c {
+  padding: 10px;
+  padding-right: 0;
+}
+.goods-info-box .price.data-v-18739e8c {
+  color: #c00000;
+  font-size: 18px;
+  margin: 10px 0;
+}
+.goods-info-box .goods-info-body.data-v-18739e8c {
+  display: flex;
+  justify-content: space-between;
+}
+.goods-info-box .goods-info-body .goods-name.data-v-18739e8c {
+  font-size: 13px;
+  padding-right: 10px;
+}
+.goods-info-box .yf.data-v-18739e8c {
+  margin: 10px 0;
+  font-size: 12px;
+  color: gray;
+}
+.dsc_pic.data-v-18739e8c {
+  margin-top: 10px;
+  height: 260px;
+}
+.dsc_pic image.data-v-18739e8c {
+  height: 100%;
+  width: 100%;
+}
+.goods-detail-container.data-v-18739e8c {
+  padding-bottom: 50px;
+}
+.goods_nav.data-v-18739e8c {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
